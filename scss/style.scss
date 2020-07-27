@@ -147,7 +147,7 @@ img {
       border-bottom: #ccc 1px dotted;
     }
 
-    &:last-child {
+    :last-child {
       border-bottom: none;
     }
 
