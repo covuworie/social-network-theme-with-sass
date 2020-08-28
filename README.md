@@ -10,6 +10,6 @@ The code in this repository is based on [Traversy Media's](https://www.traversym
 ## Running the code
 
 1. You will be prompted to install the the recommended extensions when you open up the code folder in Visual Studio Code. Go ahead and install these. They are `Live Sass`, `Live Server` and `Prettier`. The first is essential as it compiles `.scss` and `.sass` files into `.css` files. The last two extensions are optional. The recommended extensions can be found in the `extensions.json` file in the `.vscode` directory should you wish to edit these. Likewise in the same directory you can find the `settings.json` file should you wish to edit the recommended settings.
-2. Run ```npm install``` to install the dependencies listed in the `package.json` file.
+2. Run ```npm install``` from the project folder to install the dependencies listed in the `package.json` file.
 3. Click the `Watch Sass` button in the bottom bar of Visual Studio Code to perform live comilation of SASS or SCSS to CSS.
 4. Open `dist/index.html`, right click on the text editor area and select `Open With Live Server` (or run your preferred development server) to launch the application in your default web browser.
